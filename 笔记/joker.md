@@ -1,0 +1,1 @@
+[cf 1956 D](https://codeforces.com/contest/1956/problem/D)
